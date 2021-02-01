@@ -2,10 +2,12 @@
 @import url('https://fonts.googleapis.com/css?family=EB+Garamond');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 <!-- font-family: 'EB Garamond', serif; -->
 <!-- font-family: 'JetBrains Mono', monospace; -->
 <!-- font-family: 'Roboto Mono', monospace; -->
+<!-- font-family: 'Open Sans', sans-serif; -->
 
 html{
   background-color: #eee;
@@ -13,14 +15,18 @@ html{
 
 body{
   margin: 0;
-  font-family: 'EB Garamond', serif;
-  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
   color: #111;
   background-color: #eee;
 }
 
 h1, h2, h3{
   font-family: 'Roboto Mono', monospace;
+}
+
+div.a {
+  text-align: center;
 }
 
 h1{
@@ -30,7 +36,7 @@ h1{
   text-align: center;
   color: #333;
   padding: 0em;
-  margin-bottom: 2em;
+  margin-bottom: 0.5em;
 
 }
 
@@ -66,7 +72,7 @@ a:hover {
   padding: 1.8em 0em 3em 2em;
   float: right;
   text-align: justify;
-  width: 30vw;
+  width: 20vw;
   z-index: 99999;
   position: relative;
 }
@@ -103,6 +109,20 @@ a > .fab, a > .fas{
 .fab:hover, .fas:hover{
   background-color: blue;
 }
+
+.img-with-text {
+    text-align: center;
+    width: 200px;
+}
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
+
+div.container {
+      display:inline-block;
+    }
 
 @keyframes fadein {
     from { opacity: 0; }
