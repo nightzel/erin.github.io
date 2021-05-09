@@ -3,11 +3,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Roboto+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
 
 <!-- font-family: 'EB Garamond', serif; -->
 <!-- font-family: 'JetBrains Mono', monospace; -->
 <!-- font-family: 'Roboto Mono', monospace; -->
 <!-- font-family: 'Open Sans', sans-serif; -->
+<!---font-family: 'Courier Prime', monospace; -->
+
 
 html{
   background-color: #111;
@@ -15,14 +18,14 @@ html{
 
 body{
   margin: 0;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Courier Prime', monospace;
   font-size: 16px;
   color: #eeeeee;
   background-color: #111;
 }
 
 h1, h2, h3{
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Courier Prime', monospace;
   color: #eeeeee;
 }
 
