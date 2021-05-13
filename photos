@@ -1,0 +1,87 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+<link rel="stylesheet" type="text/css" href="main.css" />
+<link rel="stylesheet" type="text/css" href="colour.css" />
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+
+<title>Erin Neitzel</title>
+ 
+</head>
+
+<body>
+<div class="list">
+
+
+<!-------------------HEAD---------------->
+
+<!---<h1 class="name">Erin Neitzel</h1>--->
+
+<center><img src="https://64.media.tumblr.com/ed659fb40ba89c876eb63264038c6f1e/22da670cf7cef204-32/s2048x3072/3ebdcd229816f1422be7b40e2e3404af490c4c8d.png" alt="Erin Neitzel" width="400" height="80"></center>
+
+<div class="a">
+<div class="b">
+
+<center><p>
+<a class="active" href="index.html">Home</a>
+·
+<a href="reel.html">Reel</a>
+</p></center>
+
+</div>
+
+
+
+
+<!---------------PICS------->
+
+<center>
+
+<img src="https://64.media.tumblr.com/b8535769c1d441d8881c826b36b2daaa/0d0f98295c3c16a5-15/s2048x3072/5f679b43b04f4d8b3e5412d9043846923acc19fd.jpg" alt="talk to the hand" width="697" height="500">
+
+&emsp;
+
+
+<img src="https://64.media.tumblr.com/dc885e7f667721f8dcb69077948dba1c/0d0f98295c3c16a5-8d/s2048x3072/4c43205c824bee4abb42b58529edddf52f69892c.png" alt="talk to the hand" width="697" height="500">
+
+&emsp;
+
+
+<img src="https://64.media.tumblr.com/e28f01bc0975b662954fa7f3e51b00d2/0d0f98295c3c16a5-7c/s2048x3072/2993b85882f5855f75cc59f27a508dae763e7dcb.png" alt="talk to the hand" width="697" height="500">
+
+&emsp;
+
+<img src="https://64.media.tumblr.com/fabc835ddb1f50a1a156596294997b32/881e10d5c9b8ae2d-d7/s2048x3072/95830cc2a8905c9cde28516a640ee6623d5e7b3e.jpg" alt="radio dreams" width="697" height="500">
+
+&emsp;
+
+
+<img src="https://64.media.tumblr.com/891923697f24c1b094d3eba554cf0c27/0d0f98295c3c16a5-b1/s2048x3072/44891c85615c77df225d24c22e6e2db900e07dd4.jpg" alt="talk to the hand" width="697" height="500">
+
+&emsp;
+
+
+</center>
+
+
+
+
+<!---------------------CONTACT------->
+
+<div class="contact">
+<h3>contact</h3>
+<a href="erineneitzel@gmail.com"><i class="fas fa-envelope"></i></a>
+
+<a href="https://www.instagram.com/erin.nightzel/" target="_blank"><i class="fab fa-instagram"></i></a>
+
+<!-- <a href="https://twitter.com/your_name" target="_blank"><i class="fab fa-twitter"></i></a> -->
+
+</div>
+
+
+</body>
+</html>
