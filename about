@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+
+<head>
+
+<title>Erin Neitzel</title>
+<link rel="stylesheet" type="text/css" href="form.css" />
+<script type="text/javascript" src="cursor.js"></script>
+
+</head>
+<body>
+
+<h1><a href="index.html">erin neitzel</a></h1>
+<h3>professional video & editing services</h3>
+
+
+<img src="https://64.media.tumblr.com/067a2b788a0b8f9ec3c499aa7badfafb/5759aa0b003728ee-44/s2048x3072/1f2dd70441b2c28ba35fec8fc0acf468e55d8856.jpg" alt="mugshot of the artist" style="width:500px;height:300px;"> 
+
+<img src="https://64.media.tumblr.com/71dc3f545cb78d51028bef1641fa8e0a/5759aa0b003728ee-87/s2048x3072/ad8ec772a8dad4380c026728785e72ba7432bd02.jpg" alt="mugshot of the artist" style="width:500px;height:300px;"> 
+
+
+
+
+</body>
+</html>
