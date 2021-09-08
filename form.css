@@ -5,6 +5,11 @@ body{
   background-color: white;
 }
 
+.responsive {
+  max-width: 50%;
+  height: auto;
+}
+
 h1{
   font-weight: 500;
   font-size: 3em;
