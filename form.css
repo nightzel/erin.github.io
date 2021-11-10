@@ -124,4 +124,24 @@ a:hover {
   color: white;
 }
 
-</style>
+.video-container {
+  position: relative;
+  /* display: inline-block; */
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  height: 100%;
+  max-width: 560px;
+  max-height: 315px;
+}
