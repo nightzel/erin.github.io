@@ -9,6 +9,7 @@ html{
 body{
   margin: 0;
   font-family: 'Lucida Console', monospace;
+  font-size: 10px;
   color: blue;
 }
 
