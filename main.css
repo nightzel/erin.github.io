@@ -1,29 +1,25 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:700');
-@import url('https://fonts.googleapis.com/css?family=EB+Garamond');
-
 
 html{
-  background-color: gray;
+  background-color: black;
 }
 
 body{
   margin: 0;
-  font-family: 'Lucida Console', monospace;
-  font-size: 12px;
-  color: blue;
+  font-family: 'Times New Roman', serif;
+  font-size: 14px;
+  color: white;
 }
 
 h1, h2, h3{
-  font-family: 'Lucida Console', monospace;
-  color: blue;
+  font-family: 'Times New Roman', serif;
+  color: white;
 }
 
 h1{
-  text-transform: uppercase;
   font-weight: 900;
-  font-size: 3em;
+  font-size: 2em;
   text-align: center;
-  color: #333;
+  color: white;
   padding: 0em;
   margin-bottom: 2em;
 
@@ -49,7 +45,7 @@ h4{
 
 
 a, a:visited {
-  color: #000;
+  color: white;
   text-decoration: none;
   line-height: 1.6em;
 }
@@ -67,6 +63,12 @@ img {
 
 .responsive {
   max-width: 100%;
+  height: auto;
+}
+
+.responsive1 {
+  width: 100%;
+  max-width: 300px;
   height: auto;
 }
 
