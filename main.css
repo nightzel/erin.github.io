@@ -129,7 +129,7 @@ a > .fab, a > .fas{
           font-size: 2em;
         }
         .list{
-          padding: 0em 1em;
+          padding: 0em .5em;
         }
         .bio{
           padding: .5em 0;
